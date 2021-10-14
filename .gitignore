@@ -1,3 +1,18 @@
+# PyCharm
+.idea/
+
+# MacOS
+.DS_store
+
+# Reports
+*.csv
+
+# Data
+dns-h48/
+dns-h64/
+dns-valentini-h64/
+val/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
